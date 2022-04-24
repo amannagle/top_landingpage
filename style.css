@@ -62,3 +62,17 @@ button{
     border-radius: 8px;
     font-weight: bold;
 }
+
+.bottomcontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.secondheader{
+    display: flex;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 36px;
+    color: #1f2937;
+    margin-top: 0px;
+}
