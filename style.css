@@ -94,6 +94,7 @@ button{
     flex-direction: column;
     justify-content: center;
     flex-basis: 100%;
+    margin-bottom: 100px;
 } 
 
 .imagecontainer img{
@@ -103,3 +104,15 @@ button{
     border-radius: 20px;
     flex:1;
 } 
+
+.quotecontainer{
+    display: flex;
+    min-height: 300px;
+    min-width: 300px;
+    justify-content: center;
+    align-items: center;
+    background: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
