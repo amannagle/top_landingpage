@@ -129,3 +129,44 @@ button{
     font-weight: bold;
     margin-top: 10px;
 }
+
+.actionbutton{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bluesection{
+    background: #3882f6;
+    width: 800px;
+    height: 100px;
+    padding-left: 150px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    gap: 100px;
+    color: white;
+    margin-left: 0px;
+}
+.exclaim{
+    font-weight: bold;
+    display: inline;
+}
+
+
+.bluebutton{
+    padding: 0px 30px;
+    height: 50px;
+    align-self: center;
+}
+
+footer{
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    background: #1f2937;
+    color: white;
+}
